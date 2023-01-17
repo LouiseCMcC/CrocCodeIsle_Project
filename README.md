@@ -1,13 +1,13 @@
 # CrocCodeIsle_Project
 Duolingo style mobile application for software languages designed and created by a three person group.
 
-Technologies used:
+• Technologies used:
 
 JavaScript, React Native, Java, Spring
 
-Project Brief:
+• Project Brief:
 
-MVP
+• MVP
 
 Create a Duolingo style app for several programming languages.
 
@@ -21,7 +21,7 @@ Users can view top scores.
 
 Consistent fun style scheme, with mascot.
 
-Extensions
+• Extensions
 
 Admin section to add / edit questions and answers
 
@@ -35,15 +35,15 @@ Browser version
 
 Android version
 
-To Run:
+• To Run:
 
-Back-end
+• Back-end
 
 To start the back-end, right click on CrocCodeIsleServiceApplication.js and select 'Run 'CrocCodeIsleSe...main()''.
 
 The backend can be found on http://localhost:8080/questions
 
-Front-end
+• Front-end
 
 To start the front-end, enter in the terminal npx react-native run-ios
 
