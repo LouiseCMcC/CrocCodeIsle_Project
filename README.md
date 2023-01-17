@@ -1,5 +1,39 @@
 # CrocCodeIsle_Project
-Duolingo style mobile application for software languages designed and created by a three person group. Made using JavaScript with React Native and Java.
+Duolingo style mobile application for software languages designed and created by a three person group.
+
+Technologies used:
+
+JavaScript, React Native, Java, Spring
+
+Project Brief:
+
+MVP
+
+Create a Duolingo style app for several programming languages.
+
+Using mobile-first design
+
+Using a relational database for data permanence.
+
+Users should have their own points to level up, encouraging use.
+
+Users can view top scores.
+
+Consistent fun style scheme, with mascot.
+
+Extensions
+
+Admin section to add / edit questions and answers
+
+Upload it to AWS
+
+Circle CI tunnel
+
+Scores by area
+
+Browser version
+
+Android version
 
 To Run:
 
